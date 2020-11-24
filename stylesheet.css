@@ -1,0 +1,11 @@
+@font-face {font-family:ArialBlack;src:url("r/8_Arial Black.ttf");}
+.game-box{width:600px;height:600px;border:10px solid black;}
+/*.backdrop-sunny{width:600px;position:relative;top:123px;}*/
+.backdrop-sunny{width:600px;position:relative;top:103px;}
+.header-bg{width:601px;position:relative;top:-482px;left:0px;}
+.header-expbg  {position:relative;top:-576px;left:4px;border:1px solid black;width:588px;height:30px;}
+.header-fastbg {position:relative;top:-628px;left:4px;border:1px solid black;width:588px;height:12px;}
+.header-boostbg{position:relative;top:-662px;left:4px;border:1px solid black;width:588px;height:12px;}
+body{background-color:#fff;}
+.sidebar{width:140px;height:476px;background-color:rgba(255,255,255,0.4);border:1px solid black;position:relative;top:-558px;left:459px;}
+.stat-level{font-family:ArialBlack;font-size:30px;position:relative;top:-1148px;right:-470px;}
